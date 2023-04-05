@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-   <img src="https://img.shields.io/badge/Bot%20Version-v1.0-green" alt="Bot Version">
+   <img src="https://img.shields.io/badge/Bot%20Version-v1.1-green" alt="Bot Version">
    <img src="https://img.shields.io/badge/License-MIT-brightgreen" alt="License">
 </p>
 
