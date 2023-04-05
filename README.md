@@ -11,6 +11,30 @@
 
 This is a telegram bot that uses api to receive real-time currency exchange
 
+# Install
+
+0. Before doing all of this you need:
+
++ Get bot api key from Father telegram bot [here](https://t.me/botfather) 
++ Get some currency api key. I used [Fixer API](https://fixer.io/)
+
+1. Clone the repository or download the zip file
+```
+git clone https://github.com/NikZip/TeleBotChars
+```
+2. Rename file **`private_config_template.py`** to **`private_config.py`** and full **`BOT_TOKEN`**, **`API_TOKEN`** tokens with yours
+
+3. Docker:
+
+      To run bot in docker:
+```
+docker-compose up --build
+```
+4. Without Docker
+```
+pip install -r requirements.txt
+```
+
 # Documentation
 
 ## Config:
