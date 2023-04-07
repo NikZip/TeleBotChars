@@ -9,7 +9,10 @@
 
 # About
 
-This is a telegram bot that uses api to receive real-time currency exchange
+Telegram bot using:
++ Telegram API
++ Currency exchange API
+
 
 # Install
 
